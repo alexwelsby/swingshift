@@ -1,0 +1,1 @@
+Intended as a blue-light filter for Android, and based off the currently-existing Night Shift.
